@@ -1,0 +1,1 @@
+This project was made by following [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course on Udemy by Andrei Neagoie
